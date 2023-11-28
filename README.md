@@ -1,2 +1,2 @@
-# Face-mask-detection-with-Alert-system
+# Face-mask-detection
 Project
